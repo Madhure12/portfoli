@@ -1,0 +1,29 @@
+.extra{
+    height: 80vh;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 60px;   
+}
+h1{
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    background: linear-gradient(120deg,#36013F 10.69%,#7644ff 50.19%,#e72a82 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h2 {
+   text-align: left;
+}
+.extra ul li{
+   font-size: 20px;
+   text-align: left;
+   color: #357EC7;
+}

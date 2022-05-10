@@ -1,0 +1,46 @@
+.skill{
+
+    height: 80vh;
+    width: 100%;
+    margin: auto;
+    padding-top: 80px;  
+}
+h1{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    color: brown;
+    letter-spacing: 1px;
+    padding-bottom: 80px;
+}
+.skill ul li{
+    font-size: 18px;
+    color: rgb(88, 6, 6);
+}
+#bottom{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: white;
+    background-color: gray;
+    min-height: 5em;
+    padding-bottom: .6em;
+    margin:5em 0 2em 0;
+  }
+  #bottom div{
+    padding: 0px 2em;
+  }
+  #bottom h1{
+    font-family: 'roboto', sans-serif;
+    padding: 0;
+    font-size: 20px;
+    margin-bottom: .5em;
+  }
+  #bottom li, h2{
+    font-size: 16px;
+    margin: 0.2em;
+    font-weight: lighter;
+    text-align: left;
+    list-style-type: none;
+  }
